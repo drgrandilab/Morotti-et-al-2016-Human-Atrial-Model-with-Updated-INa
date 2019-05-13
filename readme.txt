@@ -1,4 +1,4 @@
-Matlab code for Morotti et al. human atrial model.
+Matlab code for Morotti et al. human atrial model with updated INa formulation.
 
 _____________________________________________________________________________________________________
 Contents:
@@ -18,8 +18,8 @@ ________________________________________________________________________________
 
 Reference:
 
-Morotti S, McCulloch AD, Bers DM, Edwards AG, Grandi E. (2015).
+Morotti S, McCulloch AD, Bers DM, Edwards AG, Grandi E.
 Atrial-selective targeting of arrhythmogenic phase-3 earlyafterdepolarizations in human myocytes.
-J Mol Cell Cardiol. doi: 10.1016/j.yjmcc.2015.07.030
+J Mol Cell Cardiol. 2016 Jul; 96:63-71. doi: https://doi.org/10.1016/j.yjmcc.2015.07.030
 
 Please cite the above paper when using this model.
